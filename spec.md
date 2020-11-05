@@ -38,4 +38,26 @@ This should be able to be switched to a note view. For instance, if we are in th
 
 ## Arpeggios for Bass and Guitar
 
+For a given chord, this will list all of the notes and locations of the arpeggio on the bass / guitar.
+So, for instance, the arpeggio pattern for a major chord with the 7th, that would be:
+
+
+| :----: | :----: | :----: | :----: | :----: |
+|   P5   |        |        |   m7   |        |
+|        |        |   M3   |        |        |
+|        |   m7   |        |   O    |        |
+|   M3   |        |        |   P5   |        |
+|        |   R    |        |        |        |
+
+This should be able to be switched to a note view. For instance, if we are in the Cmaj7 arpeggio, that would be:
+
+| :----: | :----: | :----: | :----: | :----: |
+|   G    |        |        |   A#   |        |
+|        |        |   E    |        |        |
+|        |   A#   |        |   C    |        |
+|   E    |        |        |   G    |        |
+|        |   C    |        |        |        |
+
+
+
 ## Jazz Chord Scales
