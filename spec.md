@@ -59,5 +59,28 @@ This should be able to be switched to a note view. For instance, if we are in th
 |        |   C    |        |        |        |
 
 
-
 ## Jazz Chord Scales
+
+It is important to provide the scales and modes from the major scale.
+This is the 12 notes in the following scales:
+
+- Ionian
+- Dorian
+- Phrygian
+- Lydian
+- Mixolydian
+- Aeolian
+- Locrian
+
+The each scale should then show the chordal scales as follows with the base chord indicated:
+
+- I
+- i
+- ii
+- iii
+- IV
+- V
+- vi
+- dim vii
+
+Where capital roman numberals indicates major scales, lowercase minor scales, and dim lowercase indicates a diminished scale.
